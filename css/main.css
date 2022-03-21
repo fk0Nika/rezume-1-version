@@ -23,6 +23,10 @@ a {
 	margin-bottom: 10px;
 }
 
+a:hover {
+	text-decoration: underline;
+}
+
 .page {
 	display: flex;
 	align-items: center;
